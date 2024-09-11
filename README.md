@@ -1,1 +1,1 @@
-# firebase-javascrip
+# firebase-javascript
